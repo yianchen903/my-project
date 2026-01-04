@@ -8,10 +8,9 @@
 **The choice of discrete derivatives in discrete energy functional**
 * [A Discontinuous Ritz Method for a Class of Calculus of Variations Problems](https://arxiv.org/pdf/1709.04297)
 
+* [Compact embeddings of broken Sobolev spaces and applications](https://sci-hub.se/10.1093/imanum/drn038)
 
-* Compact embeddings of broken Sobolev spaces and applications*
-https://sci-hub.se/10.1093/imanum/drn038
-https://people.maths.ox.ac.uk/suli/Buffa_Ortner_lecture.pdf
+
 ###### FEniCS project
 ###### 0. （我在FEniCS上的提問）
 * [Implementing the discrete weak gradient operators](https://fenicsproject.discourse.group/t/implementing-the-discrete-weak-gradient-operators/15777)
