@@ -1,6 +1,6 @@
 # my-project
 
-### Paper/Documentation
+### Documentation 
 **Colab**
 * https://colab.research.google.com/drive/1_5BlvZLpUWrwEoxx_2O-XFzgq1A29QMf#scrollTo=yMzBlz9WmGE4&uniqifier=3
  
