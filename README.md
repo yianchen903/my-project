@@ -1,6 +1,13 @@
 # my-project
 
-### [Problem Statement](https://hackmd.io/@charlie903/S19WHJ49a)
+## 📌 Overview
+* [Problem Statement](https://hackmd.io/@charlie903/S19WHJ49a)
+
+## 🧪 Methodology
+
+## 📊 Key Results
+
+## ⚙️ Installation & Requirements
 
 ### Reference/Documentation 
  
@@ -51,12 +58,3 @@
 
 
 * [NGsolve -- Implementing lifting operator in DG](https://forum.ngsolve.org/t/implementing-lifting-operator-in-dg/2911)
-
-## 📌 Overview
-
-
-## 🧪 Methodology
-
-## 📊 Key Results
-
-## ⚙️ Installation & Requirements
