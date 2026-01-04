@@ -9,12 +9,12 @@
 
 ## ⚙️ Installation & Requirements
 
-、、、
+```python=
 try:
     import dolfin
 except ImportError:
     !wget "https://fem-on-colab.github.io/releases/fenics-install-real.sh" -O "/tmp/fenics-install.sh" && bash "/tmp/fenics-install.sh" import dolfin
-、、、
+```
 
 ### Reference/Documentation 
  
