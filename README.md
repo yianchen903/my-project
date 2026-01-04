@@ -1,6 +1,8 @@
 # my-project
 
-### Documentation 
+### [Problem Statement](https://hackmd.io/@charlie903/S19WHJ49a)
+
+### Reference/Documentation 
  
 **LDG convert to minimization**
 * [A High-Order Local Discontinuous Galerkin Method for the p-Laplace Equation](https://arxiv.org/pdf/2311.09119)
