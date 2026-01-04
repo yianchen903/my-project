@@ -1,18 +1,12 @@
 # my-project
 
 ### Documentation 
-**Colab**
-* https://colab.research.google.com/drive/1_5BlvZLpUWrwEoxx_2O-XFzgq1A29QMf#scrollTo=yMzBlz9WmGE4&uniqifier=3
  
 **LDG convert to minimization**
-* A High-Order Local Discontinuous Galerkin Method for the p-Laplace Equation
-https://arxiv.org/pdf/2311.09119
-
+* [A High-Order Local Discontinuous Galerkin Method for the p-Laplace Equation](https://arxiv.org/pdf/2311.09119)
 
 **The choice of discrete derivatives in discrete energy functional**
-
-*  A Discontinuous Ritz Method for a Class of Calculus of Variations Problems
-https://arxiv.org/pdf/1709.04297
+* [A Discontinuous Ritz Method for a Class of Calculus of Variations Problems](https://arxiv.org/pdf/1709.04297)
 
 
 * Compact embeddings of broken Sobolev spaces and applications*
